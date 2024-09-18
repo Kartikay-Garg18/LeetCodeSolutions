@@ -7,6 +7,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -41,4 +42,8 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
