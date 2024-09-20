@@ -31,8 +31,6 @@ class Solution {
         double[] dist = new double[n];
         dist[start_node] = 1d;
 
-        boolean[] vis = new boolean[n];
-
         PriorityQueue<Pair> pq = new PriorityQueue<>();
 
         pq.add(new Pair(start_node, 1d));
