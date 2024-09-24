@@ -17,6 +17,7 @@ My solutions of the leetcode questions
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,10 +52,12 @@ My solutions of the leetcode questions
 | ------- |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +105,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,4 +129,8 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
