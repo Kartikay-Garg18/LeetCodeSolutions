@@ -2,15 +2,19 @@ class Solution {
 
     public String sorted(String word){
         int[] freq = new int[26];
+
         StringBuilder sb = new StringBuilder("");
+
         for(char ch : word.toCharArray()){
             freq[ch-'a']++;
         }
+
         for(int ele : freq){
             sb.append(ele);
             sb.append("-");
         }
-        return sb.substring(0, sb.length()-1);
+
+        return sb.toString();
     }
 
     public List<List<String>> groupAnagrams(String[] strs) {
