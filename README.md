@@ -16,6 +16,7 @@ My solutions of the leetcode questions
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +111,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
