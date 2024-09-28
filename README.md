@@ -16,6 +16,7 @@ My solutions of the leetcode questions
 | [0485-max-consecutive-ones](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -161,4 +162,16 @@ My solutions of the leetcode questions
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
