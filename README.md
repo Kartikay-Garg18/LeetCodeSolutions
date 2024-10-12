@@ -41,6 +41,7 @@ My solutions of the leetcode questions
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
@@ -58,6 +59,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -84,6 +87,7 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
@@ -157,11 +161,13 @@ My solutions of the leetcode questions
 ## Tree
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
