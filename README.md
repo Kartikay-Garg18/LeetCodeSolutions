@@ -29,6 +29,7 @@ My solutions of the leetcode questions
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
+| [3195-separate-black-and-white-balls](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My solutions of the leetcode questions
 | [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
+| [3195-separate-black-and-white-balls](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ My solutions of the leetcode questions
 | [1894-merge-strings-alternately](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3195-separate-black-and-white-balls](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
