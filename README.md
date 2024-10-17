@@ -36,6 +36,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0502-ipo](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0502-ipo) |
+| [0670-maximum-swap](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
