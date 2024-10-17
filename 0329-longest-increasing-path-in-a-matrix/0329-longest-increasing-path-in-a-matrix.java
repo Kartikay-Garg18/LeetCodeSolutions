@@ -2,7 +2,7 @@ class Solution {
     public int search(int[][] matrix, int i, int j, int m, int n, int[][] dp, int par){
         if(i<0 || j<0 || i>=m || j>=n || matrix[i][j]<=par) return 0;
 
-        if(dp[i][j]!=-1) return dp[i][j];
+        if(dp[i][j]!=0) return dp[i][j];
 
         int ele = matrix[i][j];
         int left = search(matrix, i, j-1, m, n, dp, ele);
@@ -16,7 +16,6 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
         int[][] dp = new int[m][n];
-        for(int[] ele : dp) Arrays.fill(ele, -1);
         int max = 0;
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
