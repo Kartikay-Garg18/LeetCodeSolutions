@@ -45,6 +45,7 @@ My solutions of the leetcode questions
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -85,6 +86,7 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -96,6 +98,7 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -176,12 +179,14 @@ My solutions of the leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
