@@ -12,6 +12,7 @@ My solutions of the leetcode questions
 | [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -64,6 +65,7 @@ My solutions of the leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -171,6 +173,7 @@ My solutions of the leetcode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -206,6 +209,7 @@ My solutions of the leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
