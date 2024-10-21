@@ -8,6 +8,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
@@ -191,6 +192,7 @@ My solutions of the leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Matrix
