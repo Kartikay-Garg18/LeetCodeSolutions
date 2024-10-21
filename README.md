@@ -15,6 +15,7 @@ My solutions of the leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0455-assign-cookies](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
@@ -210,6 +211,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
@@ -239,6 +241,7 @@ My solutions of the leetcode questions
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
