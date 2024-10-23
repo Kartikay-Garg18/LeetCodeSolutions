@@ -15,7 +15,7 @@
  */
 class Solution {
 
-    public void update(List<TreeNode> list, int sum, HashMap<TreeNode, Integer> map){
+    public void update(Set<TreeNode> list, int sum, HashMap<TreeNode, Integer> map){
         for(TreeNode curr : list){
             int feed = sum-map.get(curr);
             if(curr.left!=null) curr.left.val = feed;
@@ -30,7 +30,7 @@ class Solution {
         root.val = 0;
         queue.add(root);
         queue.add(null);
-        List<TreeNode> list = new ArrayList<>();
+        Set<TreeNode> list = new HashSet<>();
         while(!queue.isEmpty()){
             TreeNode curr = queue.poll();
             if(curr!=null){
