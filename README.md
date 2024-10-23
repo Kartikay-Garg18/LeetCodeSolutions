@@ -63,6 +63,7 @@ My solutions of the leetcode questions
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ My solutions of the leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ My solutions of the leetcode questions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -233,6 +236,7 @@ My solutions of the leetcode questions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +245,7 @@ My solutions of the leetcode questions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Linked List
 |  |
 | ------- |
