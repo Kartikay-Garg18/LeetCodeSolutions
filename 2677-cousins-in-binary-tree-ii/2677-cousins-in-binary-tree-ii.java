@@ -38,8 +38,12 @@ class Solution {
                 int b = curr.right!=null?curr.right.val:0;
                 map.put(curr, a+b);
                 childSum+=a+b;
-                if(curr.left!=null) queue.add(curr.left);
-                if(curr.right!=null) queue.add(curr.right);
+                if(curr.left!=null){
+                    if(curr.left.left!=null || curr.left.right!=null) queue.add(curr.left);
+                }
+                if(curr.right!=null){
+                    if(curr.right.left!=null || curr.right.right!=null) queue.add(curr.right);
+                }
                 list.add(curr);
             } else{
                 update(list, childSum, map);
