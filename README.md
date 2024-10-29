@@ -32,6 +32,7 @@ My solutions of the leetcode questions
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -66,6 +67,7 @@ My solutions of the leetcode questions
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -201,6 +203,7 @@ My solutions of the leetcode questions
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Shortest Path
 |  |
 | ------- |
