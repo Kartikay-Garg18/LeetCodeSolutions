@@ -25,6 +25,7 @@ My solutions of the leetcode questions
 | [0485-max-consecutive-ones](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
@@ -259,6 +260,7 @@ My solutions of the leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -268,6 +270,7 @@ My solutions of the leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -313,5 +316,14 @@ My solutions of the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
