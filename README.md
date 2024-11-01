@@ -30,6 +30,7 @@ My solutions of the leetcode questions
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -240,6 +241,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -281,6 +283,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
+| [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 ## Queue
 |  |
 | ------- |
