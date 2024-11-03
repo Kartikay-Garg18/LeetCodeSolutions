@@ -142,6 +142,7 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -159,6 +160,7 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -180,12 +182,14 @@ My solutions of the leetcode questions
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 ## Backtracking
 |  |
 | ------- |
