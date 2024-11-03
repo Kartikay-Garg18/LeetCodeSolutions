@@ -209,6 +209,7 @@ My solutions of the leetcode questions
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -346,6 +347,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
