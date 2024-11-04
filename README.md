@@ -45,6 +45,7 @@ My solutions of the leetcode questions
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2714-left-and-right-sum-differences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -282,6 +283,7 @@ My solutions of the leetcode questions
 | [0560-subarray-sum-equals-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 ## Counting
 |  |
 | ------- |
