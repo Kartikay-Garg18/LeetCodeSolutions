@@ -39,6 +39,7 @@ My solutions of the leetcode questions
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -107,6 +108,7 @@ My solutions of the leetcode questions
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
@@ -292,6 +294,7 @@ My solutions of the leetcode questions
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2714-left-and-right-sum-differences) |
