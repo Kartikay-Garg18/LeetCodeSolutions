@@ -53,6 +53,7 @@ My solutions of the leetcode questions
 | [2714-left-and-right-sum-differences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -94,6 +95,7 @@ My solutions of the leetcode questions
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
@@ -301,6 +303,7 @@ My solutions of the leetcode questions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2714-left-and-right-sum-differences) |
+| [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
