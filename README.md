@@ -56,6 +56,7 @@ My solutions of the leetcode questions
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ My solutions of the leetcode questions
 | [1940-maximum-xor-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ My solutions of the leetcode questions
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
