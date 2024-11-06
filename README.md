@@ -241,6 +241,7 @@ My solutions of the leetcode questions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
@@ -312,6 +313,7 @@ My solutions of the leetcode questions
 | [1206-corporate-flight-bookings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
