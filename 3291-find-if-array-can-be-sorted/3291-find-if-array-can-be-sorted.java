@@ -11,17 +11,12 @@ class Solution {
         }
         return idx;
     }
+
     public boolean canSortArray(int[] nums) {
         int n = nums.length;
         int[] sets = new int[n];
         for(int i=0; i<n; i++){
-            int ele = nums[i];
-            int bit = 0;
-            while(ele>0){
-                bit+=(ele&1);
-                ele>>=1;
-            }
-            sets[i] = bit;
+            sets[i] = Integer.bitCount(nums[i]);
         }
 
         int i=0;
@@ -32,7 +27,7 @@ class Solution {
         for(i=0; i<n-1; i++){
             if(nums[i]>nums[i+1]) return false;
         }
-        
+
         return true;
     }
 }
