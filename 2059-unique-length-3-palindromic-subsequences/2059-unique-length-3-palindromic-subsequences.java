@@ -1,19 +1,20 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        HashSet<String> set = new HashSet<>();
-
+        int cnt = 0;
         for(char ch = 'a'; ch<='z'; ch++){
             int first = s.indexOf(ch);
             int last = s.lastIndexOf(ch);
             if(last-first>=2){
+                HashSet<Character> set = new HashSet<>();
                 first++;
                 while(first<last){
-                    set.add(""+ch+s.charAt(first)+ch);
+                    set.add(s.charAt(first));
                     first++;
                 }
+                cnt+=set.size();
             }
         }
 
-        return set.size();
+        return cnt;
     }
 }
