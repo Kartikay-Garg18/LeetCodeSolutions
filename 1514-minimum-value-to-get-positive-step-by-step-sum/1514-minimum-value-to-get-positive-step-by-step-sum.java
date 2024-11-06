@@ -4,8 +4,9 @@ class Solution {
         int max = 0;
         for(int ele : nums){
             sum+=ele;
-            max = Math.min(max, sum);
+            if(sum<max) max = sum;
         }
-        return Math.abs(max)+1;
+        if(max<0) return -max+1;
+        return 1;
     }
 }
