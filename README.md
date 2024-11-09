@@ -131,6 +131,7 @@ My solutions of the leetcode questions
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
 | ------- |
