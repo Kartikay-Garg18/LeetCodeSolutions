@@ -65,6 +65,7 @@ My solutions of the leetcode questions
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ My solutions of the leetcode questions
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
@@ -273,6 +275,7 @@ My solutions of the leetcode questions
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
