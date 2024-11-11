@@ -18,6 +18,7 @@ class Solution {
         if(dp[idx][p] != null) return dp[idx][p];
 
         int num = nums[idx];
+
         if(p<num){
             if(isSorted(nums, idx+1, num)) return dp[idx][p] = true;
         }
