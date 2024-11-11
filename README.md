@@ -19,6 +19,7 @@ My solutions of the leetcode questions
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -97,6 +98,7 @@ My solutions of the leetcode questions
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
+| [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -144,6 +146,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0502-ipo) |
@@ -357,6 +360,7 @@ My solutions of the leetcode questions
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
