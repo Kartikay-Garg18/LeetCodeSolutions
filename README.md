@@ -84,6 +84,7 @@ My solutions of the leetcode questions
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0670-maximum-swap) |
@@ -122,6 +123,7 @@ My solutions of the leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
