@@ -1,6 +1,6 @@
 class Solution {
     public String frequencySort(String s) {
-        int[][] freq = new int[256][2];
+        int[][] freq = new int[128][2];
         for(char ch : s.toCharArray()){
             int idx = ch;
             freq[idx][0] = idx;
