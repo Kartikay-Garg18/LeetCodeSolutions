@@ -1,49 +1,45 @@
 class Solution {
-    private int low(int[] nums, int ele, int low, int high, int st, int end){
-        int ans = nums.length;
-        while(st<=end){
-            int mid = st + (end-st)/2;
-            long sum = ele + nums[mid];
-            if(sum>=low){
-                if(sum<=high) ans = mid;
-                end = mid-1;
-            } else{
-                st = mid+1;
+
+    public int findPairs(int a,int s,int e,int lower, int upper,int[]nums){
+
+         if (nums[s] + a > upper || nums[e] + a < lower) {
+            return 0;
+        }
+
+        while (s <= e) {
+            if (nums[s] + a > upper || nums[e] + a < lower) {
+                break;
+            } else if (nums[s] + a >= lower && nums[e] + a <= upper) {
+                return (e - s + 1);
+            }
+
+            int mid = s + (e - s) / 2;
+
+            if (nums[mid] + a > upper) {
+                e =mid-1;
+            }
+            else {
+                if (nums[s] + a < lower) {
+                    s += 1;
+                }
+                if (nums[e] + a > upper) {
+                    e -= 1;
+                }
             }
         }
-        return ans;
+        return 0;
     }
 
-    private int high(int[] nums, int ele, int low, int high, int st, int end){
-        int ans = -1;
-        while(st<=end){
-            int mid = st + (end-st)/2;
-            long sum = ele + nums[mid];
-            if(sum<=high){
-                if(sum>=low) ans = mid;
-                st = mid+1;
-            } else{
-                end = mid-1;
-            }
-        }
-        return ans;
-    }
 
     public long countFairPairs(int[] nums, int lower, int upper) {
-        int n = nums.length;
         Arrays.sort(nums);
-        long count = 0;
-        int highest = n-1;
 
-        for(int i=0; i<n; i++){
-            int ele = nums[i];
-            int lowest = low(nums, ele, lower, upper, i+1, highest);
-            if(lowest == n) continue;
-            highest = high(nums, ele, lower, upper, lowest, highest);
-            if(highest == -1) break;
-            count+= (highest-lowest+1);
+        long pairs=0;
+
+        for(int i=0;i<nums.length-1;i++){
+            pairs+=findPairs(nums[i],i+1,nums.length-1,lower,upper,nums);
         }
 
-        return count;
+        return pairs;
     }
 }
