@@ -210,6 +210,7 @@ My solutions of the leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -253,6 +254,7 @@ My solutions of the leetcode questions
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
+| [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
@@ -473,4 +475,8 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
