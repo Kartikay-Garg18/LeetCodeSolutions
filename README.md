@@ -44,6 +44,7 @@ My solutions of the leetcode questions
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1603-running-sum-of-1d-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -82,6 +83,7 @@ My solutions of the leetcode questions
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -134,6 +136,7 @@ My solutions of the leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -459,6 +462,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -467,6 +471,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Game Theory
 |  |
 | ------- |
