@@ -37,6 +37,7 @@ My solutions of the leetcode questions
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1206-corporate-flight-bookings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -117,6 +118,7 @@ My solutions of the leetcode questions
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -168,6 +170,7 @@ My solutions of the leetcode questions
 | [0455-assign-cookies](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0502-ipo) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
