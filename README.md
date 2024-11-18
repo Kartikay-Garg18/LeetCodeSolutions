@@ -50,6 +50,7 @@ My solutions of the leetcode questions
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1755-defuse-the-bomb](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -317,6 +318,7 @@ My solutions of the leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
