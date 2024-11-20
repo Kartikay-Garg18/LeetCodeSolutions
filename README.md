@@ -135,6 +135,7 @@ My solutions of the leetcode questions
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -312,6 +313,7 @@ My solutions of the leetcode questions
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -326,6 +328,7 @@ My solutions of the leetcode questions
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Heap (Priority Queue)
 |  |
