@@ -96,6 +96,7 @@ My solutions of the leetcode questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -354,6 +355,7 @@ My solutions of the leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -508,4 +510,8 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
