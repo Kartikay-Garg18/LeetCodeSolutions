@@ -64,6 +64,7 @@ My solutions of the leetcode questions
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -387,6 +388,7 @@ My solutions of the leetcode questions
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
@@ -479,6 +481,7 @@ My solutions of the leetcode questions
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String Matching
 |  |
 | ------- |
