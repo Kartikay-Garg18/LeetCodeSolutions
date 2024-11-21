@@ -232,6 +232,7 @@ My solutions of the leetcode questions
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -253,6 +254,7 @@ My solutions of the leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -263,6 +265,7 @@ My solutions of the leetcode questions
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -278,6 +281,7 @@ My solutions of the leetcode questions
 | [1032-satisfiability-of-equality-equations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
