@@ -9,6 +9,7 @@ My solutions of the leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -375,6 +376,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,6 +395,7 @@ My solutions of the leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
