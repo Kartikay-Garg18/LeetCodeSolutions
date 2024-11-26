@@ -289,6 +289,7 @@ My solutions of the leetcode questions
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3189-find-champion-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
