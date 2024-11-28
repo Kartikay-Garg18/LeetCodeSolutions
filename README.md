@@ -69,6 +69,7 @@ My solutions of the leetcode questions
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -261,6 +262,7 @@ My solutions of the leetcode questions
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -290,6 +292,7 @@ My solutions of the leetcode questions
 | [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3189-find-champion-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -361,12 +364,14 @@ My solutions of the leetcode questions
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Trie
 |  |
 | ------- |
@@ -407,6 +412,7 @@ My solutions of the leetcode questions
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1972-rotating-the-box](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
