@@ -37,6 +37,7 @@ My solutions of the leetcode questions
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
+| [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
@@ -95,6 +96,7 @@ My solutions of the leetcode questions
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
@@ -167,6 +169,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1940-maximum-xor-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -408,6 +411,7 @@ My solutions of the leetcode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1972-rotating-the-box](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
@@ -503,6 +507,7 @@ My solutions of the leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
