@@ -15,7 +15,7 @@ class Solution {
         for (int i=0; i<s.length(); i++){
             for (int j= s.length()-1; j>=i; j--){
                 if (isPalindrome(s, i, j)){
-                    if(longestString.length() < s.substring(i, j+1).length()){
+                    if(longestString.length() < j-i+1){
                         longestString = s.substring(i, j+1);
                     }
                     break;
