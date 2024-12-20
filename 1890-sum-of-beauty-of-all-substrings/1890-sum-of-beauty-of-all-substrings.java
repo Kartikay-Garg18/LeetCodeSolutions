@@ -1,14 +1,11 @@
 class Solution {
     private int diff(int[] freq){
-        int max = 0;
+        int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
         for(int ele : freq){
-            if(ele > max){
-                max = ele;
-            }
-
-            if(ele!=0 && ele<min){
-                min = ele;
+            if(ele!=0){
+                min = Math.min(ele, min);
+                max = Math.max(ele, max);
             }
         }
         return max - min;
