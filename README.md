@@ -94,6 +94,7 @@ My solutions of the leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
@@ -329,6 +330,7 @@ My solutions of the leetcode questions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
@@ -406,6 +408,7 @@ My solutions of the leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
