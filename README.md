@@ -14,6 +14,7 @@ My solutions of the leetcode questions
 | [0119-pascals-triangle-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0139-word-break) |
@@ -233,6 +234,7 @@ My solutions of the leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
@@ -261,6 +263,7 @@ My solutions of the leetcode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -291,6 +294,7 @@ My solutions of the leetcode questions
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
@@ -437,6 +441,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
