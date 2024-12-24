@@ -41,6 +41,7 @@ My solutions of the leetcode questions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
+| [1073-number-of-enclaves](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1206-corporate-flight-bookings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -246,6 +247,7 @@ My solutions of the leetcode questions
 | [0871-keys-and-rooms](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1300-critical-connections-in-a-network](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1300-critical-connections-in-a-network) |
@@ -273,6 +275,7 @@ My solutions of the leetcode questions
 | [0871-keys-and-rooms](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -292,6 +295,7 @@ My solutions of the leetcode questions
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1073-number-of-enclaves](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -437,6 +441,7 @@ My solutions of the leetcode questions
 | [0695-max-area-of-island](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
+| [1073-number-of-enclaves](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1753-path-with-minimum-effort) |
