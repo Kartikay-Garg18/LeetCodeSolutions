@@ -1,5 +1,6 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
+        
         int cnt = 0;
         for(char ch = 'a'; ch<='z'; ch++){
             int first = s.indexOf(ch);
