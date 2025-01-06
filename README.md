@@ -43,6 +43,7 @@ My solutions of the leetcode questions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
+| [1063-best-sightseeing-pair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1206-corporate-flight-bookings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1242-matrix-block-sum) |
@@ -442,6 +443,7 @@ My solutions of the leetcode questions
 | [0494-target-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0972-knight-dialer](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0972-knight-dialer) |
+| [1063-best-sightseeing-pair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
