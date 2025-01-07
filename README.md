@@ -51,6 +51,7 @@ My solutions of the leetcode questions
 | [1325-path-with-maximum-probability](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-string-matching-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1603-running-sum-of-1d-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
@@ -361,6 +362,7 @@ My solutions of the leetcode questions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -573,6 +575,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 ## Stack
 |  |
 | ------- |
