@@ -76,6 +76,7 @@ My solutions of the leetcode questions
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -375,6 +376,7 @@ My solutions of the leetcode questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2580-circular-sentence) |
@@ -579,6 +581,7 @@ My solutions of the leetcode questions
 | [0459-repeated-substring-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
