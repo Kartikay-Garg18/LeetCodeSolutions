@@ -5,12 +5,10 @@ class Solution {
             int[] temp = new int[26];
             for(char ch : word.toCharArray()){
                 temp[ch-'a']++;
-            }
-            for(int i=0; i<26; i++){
-                uni[i] = Math.max(uni[i], temp[i]);
+                uni[ch-'a'] = Math.max(uni[ch-'a'], temp[ch-'a']);
             }
         }
-        
+
         List<String> ans = new ArrayList<>();
         for(String word : words1){
             int[] curr = new int[26];
