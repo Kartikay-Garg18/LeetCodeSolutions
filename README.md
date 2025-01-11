@@ -152,6 +152,7 @@ My solutions of the leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1044-find-common-characters](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -230,6 +231,7 @@ My solutions of the leetcode questions
 | [0502-ipo](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0502-ipo) |
 | [0670-maximum-swap](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -367,6 +369,7 @@ My solutions of the leetcode questions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -506,6 +509,7 @@ My solutions of the leetcode questions
 | [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
