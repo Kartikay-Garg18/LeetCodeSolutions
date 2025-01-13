@@ -549,6 +549,7 @@ My solutions of the leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 ## Design
 |  |
