@@ -550,6 +550,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 ## Design
 |  |
@@ -576,6 +577,7 @@ My solutions of the leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
