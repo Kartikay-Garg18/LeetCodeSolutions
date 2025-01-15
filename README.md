@@ -199,6 +199,7 @@ My solutions of the leetcode questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -242,6 +243,7 @@ My solutions of the leetcode questions
 | [2032-largest-odd-number-in-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2475-largest-palindromic-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2475-largest-palindromic-number) |
+| [2509-minimize-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
