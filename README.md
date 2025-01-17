@@ -254,6 +254,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
@@ -528,6 +529,7 @@ My solutions of the leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -542,6 +544,7 @@ My solutions of the leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -606,6 +609,7 @@ My solutions of the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
