@@ -253,6 +253,7 @@ My solutions of the leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
@@ -284,6 +285,7 @@ My solutions of the leetcode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0322-coin-change) |
@@ -529,6 +531,7 @@ My solutions of the leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
@@ -544,6 +547,7 @@ My solutions of the leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
