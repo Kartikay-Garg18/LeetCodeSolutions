@@ -152,6 +152,7 @@ My solutions of the leetcode questions
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -380,6 +381,7 @@ My solutions of the leetcode questions
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
+| [0290-word-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
