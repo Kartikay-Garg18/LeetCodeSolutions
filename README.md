@@ -105,6 +105,7 @@ My solutions of the leetcode questions
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3429-special-array-i) |
@@ -446,6 +447,7 @@ My solutions of the leetcode questions
 | [1753-path-with-minimum-effort](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -620,6 +622,7 @@ My solutions of the leetcode questions
 | [2232-adding-spaces-to-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## String Matching
 |  |
 | ------- |
