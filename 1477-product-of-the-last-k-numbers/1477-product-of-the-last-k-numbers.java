@@ -7,7 +7,7 @@ class ProductOfNumbers {
     
     public void add(int num) {
         if(num == 0){
-            list.clear();
+            list = new ArrayList<>();
             list.add(1);
             return;
         }
