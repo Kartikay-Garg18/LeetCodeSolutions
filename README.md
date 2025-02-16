@@ -68,6 +68,7 @@ My solutions of the leetcode questions
 | [1755-defuse-the-bomb](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -376,6 +377,7 @@ My solutions of the leetcode questions
 | [0494-target-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
