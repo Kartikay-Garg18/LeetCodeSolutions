@@ -155,6 +155,7 @@ My solutions of the leetcode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -388,6 +389,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0140-word-break-ii) |
 | [0290-word-pattern](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0290-word-pattern) |
@@ -434,6 +436,7 @@ My solutions of the leetcode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
