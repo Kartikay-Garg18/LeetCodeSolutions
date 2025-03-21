@@ -141,6 +141,7 @@ My solutions of the leetcode questions
 | [0069-sqrtx](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -215,6 +216,7 @@ My solutions of the leetcode questions
 | ------- |
 | [0136-single-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1940-maximum-xor-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
