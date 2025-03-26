@@ -77,6 +77,7 @@ My solutions of the leetcode questions
 | [1972-rotating-the-box](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -151,6 +152,7 @@ My solutions of the leetcode questions
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2032-largest-odd-number-in-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
@@ -248,6 +250,7 @@ My solutions of the leetcode questions
 | [1256-rank-transform-of-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -530,6 +533,7 @@ My solutions of the leetcode questions
 | [1572-subrectangle-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
