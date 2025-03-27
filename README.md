@@ -105,6 +105,7 @@ My solutions of the leetcode questions
 | [2756-buy-two-chocolates](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -195,6 +196,7 @@ My solutions of the leetcode questions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -258,6 +260,7 @@ My solutions of the leetcode questions
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2756-buy-two-chocolates) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
