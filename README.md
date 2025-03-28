@@ -96,6 +96,7 @@ My solutions of the leetcode questions
 | [2551-apply-operations-to-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -134,6 +135,7 @@ My solutions of the leetcode questions
 | [2232-adding-spaces-to-a-string](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
@@ -256,6 +258,7 @@ My solutions of the leetcode questions
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -348,6 +351,7 @@ My solutions of the leetcode questions
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -363,6 +367,7 @@ My solutions of the leetcode questions
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -479,6 +484,7 @@ My solutions of the leetcode questions
 | [1753-path-with-minimum-effort](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
@@ -539,6 +545,7 @@ My solutions of the leetcode questions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
