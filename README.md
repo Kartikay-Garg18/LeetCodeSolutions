@@ -108,6 +108,7 @@ My solutions of the leetcode questions
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kartikay-Garg18/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
